@@ -1,4 +1,3 @@
-# ratp
-express yourself
+# Express yourself
 
 ![The beginning](./theBeginning.jpg)
